@@ -12,7 +12,7 @@ This project focuses on cleaning stock market data and transforming it into mean
 - Data Cleaning
 - Data Visualization
 ## Dashboard Preview
-![Dashboard Preview](Dashboard Preview.jpeg).
+![Dashboard Preview](dashboard-preview.jpeg).
 ## Project Walkthrough Video
 Watch the demo here: https://www.linkedin.com/posts/disha-ghosh-b2a272293_powerbi-dataanalytics-datavisualization-activity-7455290433905057792-VaYB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcNUtIBmPd2Cus88VHquKAEDs5tHQjCN00
 
