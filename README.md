@@ -12,7 +12,7 @@ This project focuses on cleaning stock market data and transforming it into mean
 - Data Cleaning
 - Data Visualization
 ## Dashboard Preview
-[Dashboard Preview](Dashboard Preview.jpeg)
+![Dashboard Preview](Dashboard Preview.jpeg)
 
 
 ## Project Walkthrough Video
